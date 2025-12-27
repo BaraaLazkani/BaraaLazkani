@@ -4,10 +4,9 @@
 Department of Robotics and Intelligent Systems Engineering, Manara University, Syria
 **Email:** lazkani.baraa.official@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaraaLazkani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![GitHub Streak](https://streak-stats.demolab.com/?user=BaraaLazkani&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaraaLazkani&show_icons=true&theme=dark&hide_border=true)
-
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaraaLazkani&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BaraaLazkani&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=BaraaLazkani&color=blueviolet&style=flat)
 ---
 
 ## About Me
