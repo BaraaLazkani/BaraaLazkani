@@ -1,6 +1,6 @@
 # Baraa Lazkani
 
-**Robotics and Intelligent Systems Engineer**
+**Robotics and Intelligent Systems Engineering Student**
 Department of Robotics and Intelligent Systems Engineering, Manara University, Syria
 **Email:** lazkani.baraa.official@gmail.com
 **LinkedIn:** [Baraa Lazkani](https://www.linkedin.com/in/baraa-lazkani-0692363a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -12,7 +12,7 @@ Department of Robotics and Intelligent Systems Engineering, Manara University, S
 
 ## About Me
 
-I am a robotics engineer and researcher specializing in autonomous systems, computer vision, and machine learning applications. My research interests encompass simultaneous localization and mapping (SLAM), path planning algorithms, object detection systems, and remote sensing applications. Currently affiliated with the Department of Robotics and Intelligent Systems Engineering at Manara University and contributing to research initiatives at DualMind-Lab, I focus on developing robust, real-world solutions that bridge theoretical frameworks with practical implementations.
+I am a robotics & AI engineering student and researcher specializing in autonomous systems, computer vision, and machine learning applications. My research interests encompass simultaneous localization and mapping (SLAM), path planning algorithms, object detection systems, and remote sensing applications. Currently affiliated with the Department of Robotics and Intelligent Systems Engineering at Manara University and contributing to research initiatives at DualMind-Lab, I focus on developing robust, real-world solutions that bridge theoretical frameworks with practical implementations.
 
 My work emphasizes the integration of classical robotics principles with modern machine learning techniques, particularly in resource-constrained environments. I am committed to advancing the field through rigorous research, open-source contributions, and the mentorship of emerging roboticists through competitive platforms such as the World Robot Olympiad (WRO).
 
