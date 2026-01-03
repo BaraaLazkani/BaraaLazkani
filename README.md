@@ -2,8 +2,9 @@
 
 **Robotics and Intelligent Systems Engineering Student**
 Department of Robotics and Intelligent Systems Engineering, Manara University, Syria
-**Email:** lazkani.baraa.official@gmail.com
-**LinkedIn:** [Baraa Lazkani](https://www.linkedin.com/in/baraa-lazkani-0692363a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/baraa.lazkani.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-lazkani-0692363a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lazkani.baraa.official@gmail.com) 
 
 ![GitHub followers](https://img.shields.io/github/followers/BaraaLazkani?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/BaraaLazkani?style=social)
