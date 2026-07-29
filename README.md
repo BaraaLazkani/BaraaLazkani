@@ -38,6 +38,7 @@ Department of Robotics and Intelligent Systems Engineering, Manara University, S
 
 ## 📊 GitHub Stats:
 ![](https://github-stats-extended.vercel.app/api?username=BaraaLazkani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<img src="./profile/streak.svg" alt="GitHub Streak" /><br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=BaraaLazkani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ---
