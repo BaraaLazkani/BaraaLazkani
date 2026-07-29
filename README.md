@@ -37,9 +37,20 @@ Department of Robotics and Intelligent Systems Engineering, Manara University, S
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-stats-extended.vercel.app/api?username=BaraaLazkani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<img src="./profile/streak.svg" alt="GitHub Streak" /><br/>
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=BaraaLazkani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<p align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=BaraaLazkani&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%"/>
+      <br/>
+      <img src="./profile/streak.svg" alt="GitHub Streak" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BaraaLazkani&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%"/>
+    </td>
+  </tr>
+</table>
+</p>
 
 ---
 
